@@ -1,4 +1,10 @@
 #Youtube ADV BLOCK
 
+
+#R: /////////////////
+
 /^r[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
+
+#RR: ///////////////
+
 /^rr[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/

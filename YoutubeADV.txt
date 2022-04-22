@@ -1,14 +1,4 @@
 #Youtube ADV BLOCK
 
-rr1---sn-fpoq-hm2s.googlevideo.com
-rr1---sn-hgn7rnee.googlevideo.com
-rr1---sn-5hne6nzk.googlevideo.com
-rr2---sn-fpoq-hm2z.googlevideo.com
-rr2---sn-hpa7znsz.googlevideo.com
-rr3---sn-fpoq-hm2z.googlevideo.com
-rr4---sn-fpoq-hm2s.googlevideo.com
-rr4---sn-fpoq-hm2z.googlevideo.com
-rr5---sn-fpoq-hm2s.googlevideo.com
-rr6---sn-fpoq-hm2z.googlevideo.com
-rr7---sn-fpoq-hm2z.googlevideo.com
-r8---sn-fpoq-hm2s.googlevideo.com
+/^r[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
+/^rr[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/

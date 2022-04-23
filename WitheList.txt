@@ -1,2 +1,8 @@
+@@||syncthing.net^
+@@||firetvcaptiveportal.com^
+@@||plex.tv^
+
+
+
 steamcontent.com
 api1.origin.com

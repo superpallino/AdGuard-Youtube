@@ -1,1 +1,2 @@
 steamcontent.com
+api1.origin.com

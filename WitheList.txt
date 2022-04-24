@@ -5,3 +5,5 @@
 
 
 api1.origin.com
+api.steampowered.com
+store.steampowered.com

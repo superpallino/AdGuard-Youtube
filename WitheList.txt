@@ -5,5 +5,8 @@
 
 
 api1.origin.com
+api-global.netflix.com
+api.amazon.com
+api.github.com
 api.steampowered.com
 store.steampowered.com

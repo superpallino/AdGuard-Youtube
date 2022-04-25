@@ -1,8 +1,8 @@
 @@||syncthing.net^
 @@||firetvcaptiveportal.com^
 @@||plex.tv^
-@@||steamcontent.com
-
+@@||steamcontent.com^
+@@||manifest.googlevideo.com^
 
 api1.origin.com
 api-global.netflix.com

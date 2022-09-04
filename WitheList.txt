@@ -10,3 +10,4 @@ api.amazon.com
 api.github.com
 api.steampowered.com
 store.steampowered.com
+@@||aranzulla.it^
